@@ -14,17 +14,10 @@ To use the Microsoft Project Online Content Pack, you need the following:
 
 ## Settings
 
-Update the URL to your PWA site. From the Home tab: 
+When opening the PBIT file, you will be asked to enter the URL for your PWA site. 
+Enter it in this format, replacing "contoso" with your site name. 
+https://contoso.sharepoint.com/sites/pwa
 
-1. Edit Queries => Data Source Settings
-2. Click on “Change Source…”
-3. Enter the URL for your PWA site
-
-Refresh the data and update account details. From the Home tab:
- 
-1. Refresh
-2. Click on “Organization account”
-3. Click on “Sign in” and enter credentials 
 
 ## How the sample affects your tenant data
 
