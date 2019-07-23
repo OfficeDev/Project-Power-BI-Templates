@@ -1,12 +1,3 @@
----
-topic: sample
-products:
-- Office 365
-- Power BI
-extensions:
-  contentType: samples
-  createdDate: 9/2/2016 10:26:17 AM
----
 # Project Online Power BI Content Pack
 
 With the *Project Online Power BI Content Pack* content pack, you can expand on the *Microsoft Project Online Content Pack*. Import and analyze data from Project Online in Power BI. The content pack is designed to help you quickly connect to your Project Online tenant in Office 365 and download a variety of data to visually explore and monitor all the key aspects of your PPM deployment. There are 13 visually rich report pages for the portfolio, resource, and project overview. 
