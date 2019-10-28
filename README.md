@@ -1,12 +1,12 @@
-# Project Web App Power BI Template App
+# Project Online Power BI Template App
 
-With the *Project Web App Power BI Template App* template app, you can expand on the *Microsoft Project Web App Template App*. Import and analyze data from Project Web App into Power BI. The template app is designed to help you quickly connect to your Project Web App tenant in Office 365 and download a variety of data to visually explore and monitor all the key aspects of your PPM deployment. There are 13 visually rich report pages for the portfolio, resource, and project overview. 
+With the *Project Online Power BI Template App* template app, you can expand on the *Microsoft Project Online Template App*. Import and analyze data from Project Online into Power BI. The template app is designed to help you quickly connect to your Project Web App tenant in Office 365 and download a variety of data to visually explore and monitor all the key aspects of your PPM deployment. There are 13 visually rich report pages for the portfolio, resource, and project overview. 
  
 The template app is a quick download and is designed to help you quickly connect to your Project Web App tenant in Office 365. The download includes a variety of data to visually explore and monitor all the key aspects of your PPM deployment surrounding overviews of the portfolio, resource, and project. 
 
 ## Prerequisites
 
-To use the Microsoft Project Web App Template App, you need the following:
+To use the Microsoft Project Online Template App, you need the following:
 
 * Project Online Premium
 * Power BI
