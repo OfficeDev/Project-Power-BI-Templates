@@ -77,6 +77,8 @@ Center](https://docs.microsoft.com/en-us/power-platform/admin/admin-guide).
 > Desktop](https://docs.microsoft.com/project-for-the-web/connect-to-project-for-the-web-data-through-powerbi-desktop)
 > for more information about determining the URL.
 
+> [!Note] Known Issue: Roadmap queries have been disabled and roadmap pages have been hidden and will be enabled in the future.  
+
 How the sample affects your tenant data
 ---------------------------------------
 
