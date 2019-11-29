@@ -25,10 +25,10 @@ When opening the PBIT file, you will be asked to enter the URL of your
 Dynamics 365 Common Data Service (CDS) default instance you are using
 for Project for the web.
 
-Enter it in this format: https:\\<spam><spam>(Default CDS
+Enter it in this format: https://<spam><spam>(Default CDS
 environment).(region).dynamics<spam><spam>.com
 
-For example: http:\\<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
+For example: http://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 **To determine the Default CDS environment value of the URL**:
 
@@ -39,7 +39,7 @@ For example: http:\\<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 Put the value into the *Default CDS environment* portion of the URL. For
 instance, using the example above:\
-https:\\<spam><spam>orgde6d15d8.(region).dynamics<spam><spam>.com
+https://<spam><spam>orgde6d15d8.(region).dynamics<spam><spam>.com
 
 **To determine the region value of the URL**:
 
@@ -66,7 +66,7 @@ region values associated with regional data centers.
 
 Put the value into the *region* portion of the URL. Using our previous
 example, if the your data center is North American, the URL you need
-would be: https:\\<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
+would be: https://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 **Check with your admin** If are unsure of the URL you need, check with
 your Office 365 administrator and have them check for the value in the
