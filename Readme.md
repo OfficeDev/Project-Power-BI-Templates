@@ -1,4 +1,4 @@
-Project for the web Power BI Template
+Project for the web and Project Online Power BI Template
 =====================================
 
 With the *Consolidated Project for the web and Project Online Power BI Template*, you can import and
