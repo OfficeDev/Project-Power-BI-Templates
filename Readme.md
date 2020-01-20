@@ -1,18 +1,18 @@
 Project for the web Power BI Template
 =====================================
 
-With the *Project for the web Power BI Template*, you can import and
-analyze data from Project for the web into Power BI. The template is
+With the *Consolidated Project for the web and Project Online Power BI Template*, you can import and
+analyze data from Project for the web and Project Online into Power BI. The template is
 designed to help you quickly connect to your Default Common Data Service
 (CDS) instance in Dynamics 365 where your Project for the web data is
-stored and download a variety of data to visually explore and monitor
+stored and Project Web App tenant in Office 365 and download a variety of data to visually explore and monitor
 all the key aspects of your PPM deployment. There are multiple visually
 rich report pages for the portfolio, resource, and project overview.
 
 Prerequisites
 -------------
 
-To use the Project for the web Power BI template, you need the
+To use the Consolidated Project for the web and Project Online Power BI template, you need the
 following:
 
 -   Project Plan 3(formerly Project Online Professional) or Project Plan 5(formerly Project Online Premium) Subscription
@@ -78,6 +78,8 @@ Center](https://docs.microsoft.com/en-us/power-platform/admin/admin-guide).
 > for more information about determining the URL.
 
 > [!Note] Known Issue: Roadmap queries have been disabled and roadmap pages have been hidden and will be enabled in the future.  
+
+Next you will be asked to enter the URL for your PWA site. Enter it in this format, replacing "contoso" with your site name. https://contoso.sharepoint.com/sites/pwa
 
 How the sample affects your tenant data
 ---------------------------------------
