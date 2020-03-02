@@ -12,7 +12,7 @@ rich report pages for the portfolio, resource, and project overview.
 Prerequisites
 -------------
 
-To use the Consolidated Project for the web and Project Online Power BI template, you need the
+To use the Consolidated Project for the web Power BI template, you need the
 following:
 
 -   Project Plan 3(formerly Project Online Professional) or Project Plan 5(formerly Project Online Premium) Subscription
