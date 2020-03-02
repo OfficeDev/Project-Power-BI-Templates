@@ -1,4 +1,4 @@
-Project for the web and Project Online Power BI Template
+Project for the web Power BI Template
 =====================================
 
 With the Project for the web, you can import and
