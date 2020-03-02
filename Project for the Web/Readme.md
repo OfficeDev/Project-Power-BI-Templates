@@ -1,8 +1,8 @@
-Project for the web Power BI Template
+Project for the Web Power BI Template
 =====================================
 
-With the Project for the web, you can import and
-analyze data from Project for the web into Power BI. The template is
+With the Project for the Web, you can import and
+analyze data from Project for the Web into Power BI. The template is
 designed to help you quickly connect to your Default Common Data Service
 (CDS) instance in Dynamics 365 where your Project for the web data is
 stored and download a variety of data to visually explore and monitor
@@ -12,7 +12,7 @@ rich report pages for the portfolio, resource, and project overview.
 Prerequisites
 -------------
 
-To use the Consolidated Project for the web Power BI template, you need the
+To use the Consolidated Project for the Web Power BI template, you need the
 following:
 
 -   Project Plan 3(formerly Project Online Professional) or Project Plan 5(formerly Project Online Premium) Subscription
