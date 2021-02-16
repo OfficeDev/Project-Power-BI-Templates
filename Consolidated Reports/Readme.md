@@ -32,16 +32,12 @@ For example: http://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 **To determine the Dataverse environment value of the URL**:
 
-1.  While logged into Office 365, go to this site:
-    https://web.powerapps.com
-2.  On the PowerApps page, you'll find the Dataverse environment value
-    in the **Environments** section. For example: **orgde6d15d8**.
+1. Log on to Office: https://www.office.com
+2. On the office.com page, in the left pane, select All Apps. On the All Apps, select Business Apps Tab 
+   and select the Project Application of the org you want to build your reports on.
+3. The App URL will give you the environment and region value.
 
-Put the value into the *Dataverse environment* portion of the URL. For
-instance, using the example above:\
-https://<spam><spam>orgde6d15d8.(region).dynamics<spam><spam>.com
-
-**To determine the region value of the URL**:
+Put the value into the Dataverse URL.
 
 The region value of the URL will usually be associated to the data
 center that is close to you geographically. The following list shows the
@@ -63,10 +59,6 @@ region values associated with regional data centers.
    |United Kingdom|crm11|
    |France|crm12|
   --------------------------------------------- -----------------
-
-Put the value into the *region* portion of the URL. Using our previous
-example, if the your data center is North American, the URL you need
-would be: https://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 **Check with your admin** If are unsure of the URL you need, check with
 your Office 365 administrator and have them check for the value in the
