@@ -3,9 +3,9 @@ Project for the web and Project Online Power BI Template
 
 With the *Consolidated Project for the web and Project Online Power BI Template*, you can import and
 analyze data from Project for the web and Project Online into Power BI. The template is
-designed to help you quickly connect to your Default Common Data Service
-(CDS) instance in Dynamics 365 where your Project for the web data is
-stored and Project Web App tenant in Office 365 and download a variety of data to visually explore and monitor
+designed to help you quickly connect to your Dataverse instance in Dynamics 365 
+where your Project for the web data is stored and Project Web App tenant in Office 365
+and download a variety of data to visually explore and monitor
 all the key aspects of your PPM deployment. There are multiple visually
 rich report pages for the portfolio, resource, and project overview.
 
@@ -22,22 +22,22 @@ Settings
 --------
 
 When opening the PBIT file, you will be asked to enter the URL of your
-Dynamics 365 Common Data Service (CDS) default instance you are using
+Dynamics 365 Dataverse instance you are using
 for Project for the web.
 
-Enter it in this format: https://<spam><spam>(Default CDS
+Enter it in this format: https://<spam><spam>(Dataverse
 environment).(region).dynamics<spam><spam>.com
 
 For example: http://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
-**To determine the Default CDS environment value of the URL**:
+**To determine the Dataverse environment value of the URL**:
 
 1.  While logged into Office 365, go to this site:
     https://web.powerapps.com
-2.  On the PowerApps page, you'll find the default CDS environment value
+2.  On the PowerApps page, you'll find the Dataverse environment value
     in the **Environments** section. For example: **orgde6d15d8**.
 
-Put the value into the *Default CDS environment* portion of the URL. For
+Put the value into the *Dataverse environment* portion of the URL. For
 instance, using the example above:\
 https://<spam><spam>orgde6d15d8.(region).dynamics<spam><spam>.com
 
@@ -84,7 +84,7 @@ Next you will be asked to enter the URL for your PWA site. Enter it in this form
 How the sample affects your tenant data
 ---------------------------------------
 
-This sample has minimal impact on your tenant data. It only queries CDS
+This sample has minimal impact on your tenant data. It only queries Dataverse
 to retrieve project data to generate the dashboards in Power BI.
 
 Questions and comments
