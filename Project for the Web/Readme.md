@@ -34,7 +34,7 @@ For example: http://<spam><spam>orgde6d15d8.crm.dynamics<spam><spam>.com
 
 1.  While logged into Office 365, go to this site:
     https://web.powerapps.com
-2.  On the PowerApps page, you'll find the default Dataverse environment value
+2.  On the PowerApps page, you'll find the Dataverse environment value
     in the **Environments** section. For example: **orgde6d15d8**.
 
 Put the value into the *Dataverse environment* portion of the URL. For
