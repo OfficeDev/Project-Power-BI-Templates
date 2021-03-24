@@ -69,7 +69,7 @@ Center](https://docs.microsoft.com/en-us/power-platform/admin/admin-guide).
 > Desktop](https://docs.microsoft.com/project-for-the-web/connect-to-project-for-the-web-data-through-powerbi-desktop)
 > for more information about determining the URL.
 
-> [!Note] Known Issue: Roadmap queries have been disabled and roadmap pages have been hidden and will be enabled in the future.  
+> [!Note] We have enabled the queries for Roadmap reports. The changes are still rolling out.  
 
 Next you will be asked to enter the URL for your PWA site. Enter it in this format, replacing "contoso" with your site name. https://contoso.sharepoint.com/sites/pwa
 
