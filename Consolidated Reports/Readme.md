@@ -81,6 +81,7 @@ to retrieve project data to generate the dashboards in Power BI.
 
 Questions and comments
 ----------------------
+Please provide feedback here: https://aka.ms/ReportingFeedback
 
 Additional resources
 --------------------
