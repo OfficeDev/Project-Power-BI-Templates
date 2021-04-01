@@ -25,6 +25,7 @@ This sample has minimal impact on your tenant data. It only queries Project Web 
 
 ## Questions and comments
 
+Please provide feedback here: https://aka.ms/ReportingFeedback
 
 ## Additional resources
 
