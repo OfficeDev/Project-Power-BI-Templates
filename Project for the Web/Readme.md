@@ -15,7 +15,7 @@ Prerequisites
 To use the Project for the Web Power BI template, you need the
 following:
 
--   Project Plan 3(formerly Project Online Professional) or Project Plan 5(formerly Project Online Premium) Subscription
+-   Project Plan 1, Project Plan 3(formerly Project Online Professional) or Project Plan 5(formerly Project Online Premium) Subscription
 -   Power BI Desktop or Power Bi Pro Subscription
 
 Settings
